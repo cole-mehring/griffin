@@ -217,7 +217,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "birthday:CC0402KRX5R7BB104"
+		(symbol "birthday:CC0805KRX7R9BB104"
 			(pin_numbers
 				(hide yes)
 			)
@@ -252,7 +252,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Custom_Parts:C_0402_1005Metric"
+			(property "Footprint" "Custom_Parts:C_0805_2012Metric"
 				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -263,7 +263,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=CC0402KRX5R7BB104"
+			(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=CC0805KRX7R9BB104"
 				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -274,7 +274,7 @@
 					)
 				)
 			)
-			(property "Description" "Capacitor, MLCC, 0.1uF, 16V, 10%, X5R, 0402"
+			(property "Description" "Capacitor, MLCC, 0.1uF, 50V, 10%, X7R, 0805"
 				(at 0 -12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -296,7 +296,7 @@
 					)
 				)
 			)
-			(property "MPN" "CC0402KRX5R7BB104"
+			(property "MPN" "CC0805KRX7R9BB104"
 				(at 0 -17.78 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -307,7 +307,7 @@
 					)
 				)
 			)
-			(property "Capacitance" "0.1uF 16V X5R"
+			(property "Capacitance" "0.1uF 50V X7R"
 				(at 0.635 -4.445 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -319,7 +319,7 @@
 					(justify left)
 				)
 			)
-			(property "ki_keywords" "capacitor MLCC ceramic 100nF 0.1uF 0402 decoupling"
+			(property "ki_keywords" "capacitor MLCC ceramic 100nF 0.1uF 0805 decoupling"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -330,7 +330,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "C_*0402*"
+			(property "ki_fp_filters" "C_*0805*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -341,7 +341,7 @@
 					)
 				)
 			)
-			(symbol "CC0402KRX5R7BB104_0_1"
+			(symbol "CC0805KRX7R9BB104_0_1"
 				(polyline
 					(pts
 						(xy -2.032 0.762) (xy 2.032 0.762)
@@ -367,7 +367,7 @@
 					)
 				)
 			)
-			(symbol "CC0402KRX5R7BB104_1_1"
+			(symbol "CC0805KRX7R9BB104_1_1"
 				(pin passive line
 					(at 0 3.81 270)
 					(length 2.794)
@@ -407,6 +407,7 @@
 			)
 			(embedded_fonts no)
 		)
+
 		(symbol "birthday:CD74HC4017M96"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -817,7 +818,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "birthday:GRM155R61A106ME11D"
+		(symbol "birthday:GRM21BR61E106KA73L"
 			(pin_numbers
 				(hide yes)
 			)
@@ -852,7 +853,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Custom_Parts:C_0402_1005Metric"
+			(property "Footprint" "Custom_Parts:C_0805_2012Metric"
 				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -863,7 +864,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM155R61A106ME11D"
+			(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM21BR61E106KA73L"
 				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -874,7 +875,7 @@
 					)
 				)
 			)
-			(property "Description" "Capacitor, MLCC, 10uF, 10V, 20%, X5R, 0402 (0.7mm max height)"
+			(property "Description" "Capacitor, MLCC, 10uF, 25V, 10%, X5R, 0805 (1.25mm nominal height)"
 				(at 0 -12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -896,7 +897,7 @@
 					)
 				)
 			)
-			(property "MPN" "GRM155R61A106ME11D"
+			(property "MPN" "GRM21BR61E106KA73L"
 				(at 0 -17.78 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -907,7 +908,7 @@
 					)
 				)
 			)
-			(property "Capacitance" "10uF 10V X5R"
+			(property "Capacitance" "10uF 25V X5R"
 				(at 0.635 -4.445 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -919,7 +920,7 @@
 					(justify left)
 				)
 			)
-			(property "ki_keywords" "capacitor MLCC ceramic 10uF 0402 bulk"
+			(property "ki_keywords" "capacitor MLCC ceramic 10uF 0805 bulk"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -930,7 +931,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "C_*0402*"
+			(property "ki_fp_filters" "C_*0805*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -941,7 +942,7 @@
 					)
 				)
 			)
-			(symbol "GRM155R61A106ME11D_0_1"
+			(symbol "GRM21BR61E106KA73L_0_1"
 				(polyline
 					(pts
 						(xy -2.032 0.762) (xy 2.032 0.762)
@@ -967,7 +968,7 @@
 					)
 				)
 			)
-			(symbol "GRM155R61A106ME11D_1_1"
+			(symbol "GRM21BR61E106KA73L_1_1"
 				(pin passive line
 					(at 0 3.81 270)
 					(length 2.794)
@@ -1007,6 +1008,7 @@
 			)
 			(embedded_fonts no)
 		)
+
 		(symbol "birthday:LMC555CMX"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1489,7 +1491,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "birthday:RC0402FR-07100KL"
+		(symbol "birthday:RC0805FR-07100KL"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1524,7 +1526,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Custom_Parts:R_0402_1005Metric"
+			(property "Footprint" "Custom_Parts:R_0805_2012Metric"
 				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1535,7 +1537,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=RC0402FR-07100KL"
+			(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=RC0805FR-07100KL"
 				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1546,7 +1548,7 @@
 					)
 				)
 			)
-			(property "Description" "Resistor, 100k, 1%, 62.5mW, 50V, 100ppm/C, Thick Film, 0402"
+			(property "Description" "Resistor, 100k, 1%, 125mW, 150V, 100ppm/C, Thick Film, 0805"
 				(at 0 -12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1568,7 +1570,7 @@
 					)
 				)
 			)
-			(property "MPN" "RC0402FR-07100KL"
+			(property "MPN" "RC0805FR-07100KL"
 				(at 0 -17.78 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1591,7 +1593,7 @@
 					(justify left)
 				)
 			)
-			(property "ki_keywords" "resistor 100k 0402 thick film"
+			(property "ki_keywords" "resistor 100k 0805 thick film"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1602,7 +1604,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "R_*0402*"
+			(property "ki_fp_filters" "R_*0805*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1613,7 +1615,7 @@
 					)
 				)
 			)
-			(symbol "RC0402FR-07100KL_0_1"
+			(symbol "RC0805FR-07100KL_0_1"
 				(rectangle
 					(start -1.016 -2.54)
 					(end 1.016 2.54)
@@ -1626,7 +1628,7 @@
 					)
 				)
 			)
-			(symbol "RC0402FR-07100KL_1_1"
+			(symbol "RC0805FR-07100KL_1_1"
 				(pin passive line
 					(at 0 3.81 270)
 					(length 1.27)
@@ -1666,7 +1668,8 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "birthday:SolderPad_1x2"
+
+		(symbol "birthday:SolderPad_1x1"
 			(pin_names
 				(offset 0.254)
 			)
@@ -1676,7 +1679,7 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "J"
-				(at -2.54 2.54 0)
+				(at 3.048 0 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -1686,8 +1689,8 @@
 					(justify left)
 				)
 			)
-			(property "Value" "SolderPad_1x2"
-				(at -2.54 -5.08 0)
+			(property "Value" "SolderPad_1x1"
+				(at 6.35 0 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -1697,7 +1700,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Custom_Parts:SolderPad_1x2_10x10mm_P12.7mm"
+			(property "Footprint" "Custom_Parts:SolderPad_1x1_8x8mm"
 				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1719,7 +1722,7 @@
 					)
 				)
 			)
-			(property "Description" "Two 10x10 mm rounded-square solder pads for wires (pin 1 = +, pin 2 = -)"
+			(property "Description" "Single 8x8 mm rounded-square solder pad for a wire"
 				(at 0 -12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1730,7 +1733,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "solder pad wire battery power input"
+			(property "ki_keywords" "solder pad wire battery power input single"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1752,10 +1755,10 @@
 					)
 				)
 			)
-			(symbol "SolderPad_1x2_0_1"
+			(symbol "SolderPad_1x1_0_1"
 				(rectangle
-					(start -2.54 1.27)
-					(end 2.032 -3.81)
+					(start -2.54 1.016)
+					(end 2.032 -1.016)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -1775,23 +1778,12 @@
 						(type outline)
 					)
 				)
-				(rectangle
-					(start 0.254 -2.032)
-					(end 1.27 -3.048)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
 			)
-			(symbol "SolderPad_1x2_1_1"
+			(symbol "SolderPad_1x1_1_1"
 				(pin passive line
 					(at -5.08 0 0)
 					(length 2.54)
-					(name "+"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1799,24 +1791,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2105,7 +2079,7 @@
 		)
 		(uuid "41154c7a-3b40-4c5b-8880-d142ee0b4a2e")
 	)
-	(text "Battery: 2x AA in series (3 V), wires soldered to J1 pads on the board back"
+	(text "Battery: 2x AA in series (3 V), wires soldered to J1 (+) and J2 (-) pads on the board back"
 		(exclude_from_sim no)
 		(at 25.4 157.48 0)
 		(effects
@@ -3226,7 +3200,7 @@
 		)
 	)
 	(symbol
-		(lib_id "birthday:SolderPad_1x2")
+		(lib_id "birthday:SolderPad_1x1")
 		(at 45.72 187.96 0)
 		(unit 1)
 		(body_style 1)
@@ -3237,7 +3211,7 @@
 		(dnp no)
 		(uuid "0051c575-4349-527c-ad36-ba7b0788ab76")
 		(property "Reference" "J1"
-			(at 48.26 186.69 0)
+			(at 48.768 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3247,8 +3221,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BATT 3V"
-			(at 48.26 189.23 0)
+		(property "Value" "BATT+"
+			(at 52.07 187.96 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3258,7 +3232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Custom_Parts:SolderPad_1x2_10x10mm_P12.7mm"
+		(property "Footprint" "Custom_Parts:SolderPad_1x1_8x8mm"
 			(at 45.72 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -3280,7 +3254,7 @@
 				)
 			)
 		)
-		(property "Description" "Two 10x10 mm rounded-square solder pads for wires (pin 1 = +, pin 2 = -)"
+		(property "Description" "Single 8x8 mm rounded-square solder pad for a wire"
 			(at 45.72 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -3294,13 +3268,88 @@
 		(pin "1"
 			(uuid "df9547e0-5de1-4f8f-985f-cd40d111a145")
 		)
-		(pin "2"
-			(uuid "4a4ccd3a-562a-4622-b20d-93091b96e23b")
-		)
 		(instances
 			(project "Griffin_kicad"
 				(path "/a43a4040-333c-4599-a917-1b988824fbca/68a851f1-710f-55ef-883e-1686656dbfe0"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "birthday:SolderPad_1x1")
+		(at 45.72 190.5 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4e493934-f584-4861-88c0-6bdc9acc524f")
+		(property "Reference" "J2"
+			(at 48.768 190.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BATT-"
+			(at 52.07 190.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Custom_Parts:SolderPad_1x1_8x8mm"
+			(at 45.72 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 45.72 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Single 8x8 mm rounded-square solder pad for a wire"
+			(at 45.72 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "43ef5906-a91b-4401-b5b7-5853e104c793")
+		)
+		(instances
+			(project "Griffin_kicad"
+				(path "/a43a4040-333c-4599-a917-1b988824fbca/68a851f1-710f-55ef-883e-1686656dbfe0"
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -3384,7 +3433,7 @@
 		)
 	)
 	(symbol
-		(lib_id "birthday:CC0402KRX5R7BB104")
+		(lib_id "birthday:CC0805KRX7R9BB104")
 		(at 149.86 40.64 90)
 		(unit 1)
 		(body_style 1)
@@ -3414,7 +3463,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:C_0402_1005Metric"
+		(property "Footprint" "Custom_Parts:C_0805_2012Metric"
 			(at 149.86 40.64 270)
 			(hide yes)
 			(show_name no)
@@ -3425,7 +3474,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=CC0402KRX5R7BB104"
+		(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=CC0805KRX7R9BB104"
 			(at 149.86 40.64 270)
 			(hide yes)
 			(show_name no)
@@ -3436,7 +3485,7 @@
 				)
 			)
 		)
-		(property "Description" "Capacitor, MLCC, 0.1uF, 16V, 10%, X5R, 0402"
+		(property "Description" "Capacitor, MLCC, 0.1uF, 50V, 10%, X7R, 0805"
 			(at 149.86 40.64 270)
 			(hide yes)
 			(show_name no)
@@ -3458,7 +3507,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX5R7BB104"
+		(property "MPN" "CC0805KRX7R9BB104"
 			(at 149.86 40.64 270)
 			(hide yes)
 			(show_name no)
@@ -3469,7 +3518,7 @@
 				)
 			)
 		)
-		(property "Capacitance" "0.1uF 16V X5R"
+		(property "Capacitance" "0.1uF 50V X7R"
 			(at 149.86 40.64 270)
 			(hide yes)
 			(show_name no)
@@ -3727,7 +3776,7 @@
 		)
 	)
 	(symbol
-		(lib_id "birthday:CC0402KRX5R7BB104")
+		(lib_id "birthday:CC0805KRX7R9BB104")
 		(at 68.58 45.72 90)
 		(unit 1)
 		(body_style 1)
@@ -3757,7 +3806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:C_0402_1005Metric"
+		(property "Footprint" "Custom_Parts:C_0805_2012Metric"
 			(at 68.58 45.72 270)
 			(hide yes)
 			(show_name no)
@@ -3768,7 +3817,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=CC0402KRX5R7BB104"
+		(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=CC0805KRX7R9BB104"
 			(at 68.58 45.72 270)
 			(hide yes)
 			(show_name no)
@@ -3779,7 +3828,7 @@
 				)
 			)
 		)
-		(property "Description" "Capacitor, MLCC, 0.1uF, 16V, 10%, X5R, 0402"
+		(property "Description" "Capacitor, MLCC, 0.1uF, 50V, 10%, X7R, 0805"
 			(at 68.58 45.72 270)
 			(hide yes)
 			(show_name no)
@@ -3801,7 +3850,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0402KRX5R7BB104"
+		(property "MPN" "CC0805KRX7R9BB104"
 			(at 68.58 45.72 270)
 			(hide yes)
 			(show_name no)
@@ -3812,7 +3861,7 @@
 				)
 			)
 		)
-		(property "Capacitance" "0.1uF 16V X5R"
+		(property "Capacitance" "0.1uF 50V X7R"
 			(at 68.58 45.72 270)
 			(hide yes)
 			(show_name no)
@@ -4432,7 +4481,7 @@
 		)
 	)
 	(symbol
-		(lib_id "birthday:RC0402FR-07100KL")
+		(lib_id "birthday:RC0805FR-07100KL")
 		(at 50.8 104.14 180)
 		(unit 1)
 		(body_style 1)
@@ -4464,7 +4513,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Custom_Parts:R_0402_1005Metric"
+		(property "Footprint" "Custom_Parts:R_0805_2012Metric"
 			(at 50.8 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4475,7 +4524,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=RC0402FR-07100KL"
+		(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=RC0805FR-07100KL"
 			(at 50.8 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4486,7 +4535,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, 100k, 1%, 62.5mW, 50V, 100ppm/C, Thick Film, 0402"
+		(property "Description" "Resistor, 100k, 1%, 125mW, 150V, 100ppm/C, Thick Film, 0805"
 			(at 50.8 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4508,7 +4557,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-07100KL"
+		(property "MPN" "RC0805FR-07100KL"
 			(at 50.8 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -5083,7 +5132,7 @@
 		)
 	)
 	(symbol
-		(lib_id "birthday:GRM155R61A106ME11D")
+		(lib_id "birthday:GRM21BR61E106KA73L")
 		(at 60.96 129.54 0)
 		(unit 1)
 		(body_style 1)
@@ -5115,7 +5164,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Custom_Parts:C_0402_1005Metric"
+		(property "Footprint" "Custom_Parts:C_0805_2012Metric"
 			(at 60.96 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -5126,7 +5175,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM155R61A106ME11D"
+		(property "Datasheet" "https://www.murata.com/en-us/products/productdetail?partno=GRM21BR61E106KA73L"
 			(at 60.96 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -5137,7 +5186,7 @@
 				)
 			)
 		)
-		(property "Description" "Capacitor, MLCC, 10uF, 10V, 20%, X5R, 0402 (0.7mm max height)"
+		(property "Description" "Capacitor, MLCC, 10uF, 25V, 10%, X5R, 0805 (1.25mm nominal height)"
 			(at 60.96 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -5159,7 +5208,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM155R61A106ME11D"
+		(property "MPN" "GRM21BR61E106KA73L"
 			(at 60.96 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -5170,7 +5219,7 @@
 				)
 			)
 		)
-		(property "Capacitance" "10uF 10V X5R"
+		(property "Capacitance" "10uF 25V X5R"
 			(at 60.96 129.54 0)
 			(hide yes)
 			(show_name no)

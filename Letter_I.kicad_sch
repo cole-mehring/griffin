@@ -1058,7 +1058,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "birthday:RC0402FR-07100KL"
+		(symbol "birthday:RC0805FR-07100KL"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1093,7 +1093,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Custom_Parts:R_0402_1005Metric"
+			(property "Footprint" "Custom_Parts:R_0805_2012Metric"
 				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1104,7 +1104,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=RC0402FR-07100KL"
+			(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=RC0805FR-07100KL"
 				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1115,7 +1115,7 @@
 					)
 				)
 			)
-			(property "Description" "Resistor, 100k, 1%, 62.5mW, 50V, 100ppm/C, Thick Film, 0402"
+			(property "Description" "Resistor, 100k, 1%, 125mW, 150V, 100ppm/C, Thick Film, 0805"
 				(at 0 -12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1137,7 +1137,7 @@
 					)
 				)
 			)
-			(property "MPN" "RC0402FR-07100KL"
+			(property "MPN" "RC0805FR-07100KL"
 				(at 0 -17.78 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1160,7 +1160,7 @@
 					(justify left)
 				)
 			)
-			(property "ki_keywords" "resistor 100k 0402 thick film"
+			(property "ki_keywords" "resistor 100k 0805 thick film"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1171,7 +1171,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "R_*0402*"
+			(property "ki_fp_filters" "R_*0805*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1182,7 +1182,7 @@
 					)
 				)
 			)
-			(symbol "RC0402FR-07100KL_0_1"
+			(symbol "RC0805FR-07100KL_0_1"
 				(rectangle
 					(start -1.016 -2.54)
 					(end 1.016 2.54)
@@ -1195,7 +1195,7 @@
 					)
 				)
 			)
-			(symbol "RC0402FR-07100KL_1_1"
+			(symbol "RC0805FR-07100KL_1_1"
 				(pin passive line
 					(at 0 3.81 270)
 					(length 1.27)
@@ -1235,6 +1235,7 @@
 			)
 			(embedded_fonts no)
 		)
+
 		(symbol "birthday:RC1206FR-0715RL"
 			(pin_numbers
 				(hide yes)
@@ -2684,7 +2685,7 @@
 		)
 	)
 	(symbol
-		(lib_id "birthday:RC0402FR-07100KL")
+		(lib_id "birthday:RC0805FR-07100KL")
 		(at 96.52 78.74 180)
 		(unit 1)
 		(body_style 1)
@@ -2716,7 +2717,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Custom_Parts:R_0402_1005Metric"
+		(property "Footprint" "Custom_Parts:R_0805_2012Metric"
 			(at 96.52 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2727,7 +2728,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=RC0402FR-07100KL"
+		(property "Datasheet" "https://www.yageo.com/en/ProductSearch/PartNumberSearch?part_number=RC0805FR-07100KL"
 			(at 96.52 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2738,7 +2739,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, 100k, 1%, 62.5mW, 50V, 100ppm/C, Thick Film, 0402"
+		(property "Description" "Resistor, 100k, 1%, 125mW, 150V, 100ppm/C, Thick Film, 0805"
 			(at 96.52 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2760,7 +2761,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-07100KL"
+		(property "MPN" "RC0805FR-07100KL"
 			(at 96.52 78.74 0)
 			(hide yes)
 			(show_name no)
