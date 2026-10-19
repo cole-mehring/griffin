@@ -172,7 +172,6 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
-          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -184,7 +183,6 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
-          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -196,7 +194,6 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
-          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -519,15 +516,15 @@
     "meta": {
       "version": 5
     },
-    "net_colors": {},
-    "netclass_assignments": {},
+    "net_colors": null,
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -661,35 +658,35 @@
       "Root"
     ],
     [
-      "cdf6fa56-292d-48c1-9f5b-392ab3887cd2",
+      "68a851f1-710f-55ef-883e-1686656dbfe0",
       "Controls"
     ],
     [
-      "c0c44072-08e7-4976-8ead-def1bdb69878",
+      "a5813fa1-48e7-5e48-83c3-fdf577945316",
       "Letter_G"
     ],
     [
-      "7abe30de-a279-45bf-a10a-93ddd93c4f52",
+      "4aaf4911-10b0-5cbf-9f16-b6ec16c54f9e",
       "Letter_R"
     ],
     [
-      "125e063c-9e96-4f27-911a-08791991da24",
+      "50ff20df-e6d8-50bb-8fce-7c51dfbc7172",
       "Letter_I"
     ],
     [
-      "df038019-a83f-45d5-81b7-14fab658a1d2",
+      "e8f9c5dc-ff65-50f9-8608-319756edc80e",
       "Letter_F"
     ],
     [
-      "8711e9e6-ccbb-48a9-a386-01e5bc084b83",
+      "69926f03-892e-56d4-9552-befbeace96b2",
       "Letter_F2"
     ],
     [
-      "2e0e15b9-73b9-49b5-a989-4eec8acfff08",
+      "740400c4-053a-5cb0-a730-aebd94b236bc",
       "Letter_I2"
     ],
     [
-      "73b9c606-b1b2-488a-b8ae-1ab04843cfac",
+      "cf478068-13d1-5368-bf03-b47f93ae509a",
       "Letter_N"
     ]
   ],

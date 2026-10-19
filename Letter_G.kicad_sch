@@ -1235,7 +1235,6 @@
 			)
 			(embedded_fonts no)
 		)
-
 		(symbol "birthday:RC1206FR-076R2L"
 			(pin_numbers
 				(hide yes)

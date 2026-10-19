@@ -407,7 +407,6 @@
 			)
 			(embedded_fonts no)
 		)
-
 		(symbol "birthday:CD74HC4017M96"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1008,7 +1007,6 @@
 			)
 			(embedded_fonts no)
 		)
-
 		(symbol "birthday:LMC555CMX"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1668,7 +1666,6 @@
 			)
 			(embedded_fonts no)
 		)
-
 		(symbol "birthday:SolderPad_1x1"
 			(pin_names
 				(offset 0.254)
@@ -3278,84 +3275,6 @@
 		)
 	)
 	(symbol
-		(lib_id "birthday:SolderPad_1x1")
-		(at 45.72 190.5 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4e493934-f584-4861-88c0-6bdc9acc524f")
-		(property "Reference" "J2"
-			(at 48.768 190.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BATT-"
-			(at 52.07 190.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Custom_Parts:SolderPad_1x1_8x8mm"
-			(at 45.72 190.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 45.72 190.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Single 8x8 mm rounded-square solder pad for a wire"
-			(at 45.72 190.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "43ef5906-a91b-4401-b5b7-5853e104c793")
-		)
-		(instances
-			(project "Griffin_kicad"
-				(path "/a43a4040-333c-4599-a917-1b988824fbca/68a851f1-710f-55ef-883e-1686656dbfe0"
-					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 83.82 170.18 0)
 		(unit 1)
@@ -3882,6 +3801,84 @@
 			(project "Griffin_kicad"
 				(path "/a43a4040-333c-4599-a917-1b988824fbca/68a851f1-710f-55ef-883e-1686656dbfe0"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "birthday:SolderPad_1x1")
+		(at 45.72 190.5 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4e493934-f584-4861-88c0-6bdc9acc524f")
+		(property "Reference" "J2"
+			(at 48.768 190.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BATT-"
+			(at 52.07 190.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Custom_Parts:SolderPad_1x1_8x8mm"
+			(at 45.72 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 45.72 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Single 8x8 mm rounded-square solder pad for a wire"
+			(at 45.72 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "43ef5906-a91b-4401-b5b7-5853e104c793")
+		)
+		(instances
+			(project "Griffin_kicad"
+				(path "/a43a4040-333c-4599-a917-1b988824fbca/68a851f1-710f-55ef-883e-1686656dbfe0"
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -4863,6 +4860,7 @@
 	(symbol
 		(lib_id "birthday:PTV09A-4025F-B104")
 		(at 50.8 119.38 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4872,7 +4870,7 @@
 		(dnp no)
 		(uuid "db6b823e-5e11-5f46-bab2-29e57dbae311")
 		(property "Reference" "SW10"
-			(at 46.99 118.11 0)
+			(at 46.99 120.65 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4883,7 +4881,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 46.99 120.65 0)
+			(at 46.99 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
